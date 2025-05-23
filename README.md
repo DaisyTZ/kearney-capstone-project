@@ -1,4 +1,5 @@
 # Kearney Student Lab Capstone: Ad Strategy & Cost Optimization
+Consulting project to optimize ad spend and production strategy for a pet product brand using regression and scenario modeling
 
 ## Project Overview
 
